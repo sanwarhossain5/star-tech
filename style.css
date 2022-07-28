@@ -3,3 +3,9 @@
      
       border-radius: 10px;
 }
+.brightness{
+      filter: brightness(50%);
+}
+.color{
+      color:goldenrod;
+}
